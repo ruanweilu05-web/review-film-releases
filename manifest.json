@@ -1,6 +1,6 @@
 {
-  "phien_ban": "1.13.0",
-  "url_exe": "https://github.com/ruanweilu05-web/review-film-releases/releases/download/v1.13.0/ReviewFilm.exe",
-  "sha256": "6ee860e1db7d388ea664cc4362977328fdd50762445be8bccc10aa5587ed3c7d",
-  "ghi_chu": "nhat ky AI sua phu de · du dia dinh am thanh (bo tron thay vi cat vuong) · tran limiter an toan hon"
+  "phien_ban": "1.14.0",
+  "url_exe": "https://github.com/ruanweilu05-web/review-film-releases/releases/download/v1.14.0/ReviewFilm.exe",
+  "sha256": "8db2854fd7006d39be59779cb1fee3c1768854f6a7c9e0c76d4520131b14681b",
+  "ghi_chu": "sua preview hien nham cau vua ket thuc · cau noi Kokoro · chot chan khong gui tts_cache theo goi"
 }
