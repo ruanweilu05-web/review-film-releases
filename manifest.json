@@ -1,6 +1,6 @@
 {
-  "phien_ban": "1.14.0",
-  "url_exe": "https://github.com/ruanweilu05-web/review-film-releases/releases/download/v1.14.0/ReviewFilm.exe",
-  "sha256": "8db2854fd7006d39be59779cb1fee3c1768854f6a7c9e0c76d4520131b14681b",
-  "ghi_chu": "sua preview hien nham cau vua ket thuc · cau noi Kokoro · chot chan khong gui tts_cache theo goi"
+  "phien_ban": "1.15.0",
+  "url_exe": "https://github.com/ruanweilu05-web/review-film-releases/releases/download/v1.15.0/ReviewFilm.exe",
+  "sha256": "80958f7e891729cdec8b5f2d1a3027b06541ea01984b7f1cf3c758e1f5459d95",
+  "ghi_chu": "phong to chu ky · nhac nen · nut Dung giet duoc tien trinh con · dat ten file xuat · muc giong Kokoro · lo dich hong chia doi · bo tai chiu duoc dut mang"
 }
